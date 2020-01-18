@@ -1,16 +1,11 @@
-# myweb
+# JD_Flutter_Web
+这是一个 Flutter Web 项目，通过 GitHub Page 发布，地址为
 
-A new Flutter project.
+[https://jdnew.github.io/flutter_web/#/]((https://jdnew.github.io/flutter_web/#/)
 
-## Getting Started
+之后或许会发展为个人博客网站。
 
-This project is a starting point for a Flutter application.
+关于如何使用 GitHub Page 发布Flutter Web 项目的过程，可以参考一下两篇博文：
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [使用Flutter Web和GitHub Actions构建发布自己的Github Pages网站](https://www.jianshu.com/p/b4b4b6dc5a5c)
+- [Flutter Web — Github Actions-Github Pages](https://medium.com/flutter-community/flutter-web-github-actions-github-pages-dec8f308542a)
