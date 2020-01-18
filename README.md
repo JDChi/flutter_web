@@ -1,7 +1,7 @@
 # JD_Flutter_Web
 这是一个 Flutter Web 项目，通过 GitHub Page 发布，地址为
 
-[https://jdnew.github.io/flutter_web/#/]((https://jdnew.github.io/flutter_web/#/)
+[https://jdnew.github.io/flutter_web/#/](https://jdnew.github.io/flutter_web/#/)
 
 之后或许会发展为个人博客网站。
 
